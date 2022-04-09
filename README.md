@@ -12,3 +12,4 @@ This repo will house numerous "plugin" assemblies for AtlasC2
 * Keylogger (WIP) - Ideally runs in background for x minutes/hours/days and stores output into reg key, return data when time is up..or something
 * Persistence stuffs: DolosKeep (WIP) - https://github.com/mandiant/SharPersist
   * UserCreate (WIP) - create a new user via ADSI   
+* SnipeRoast (WIP) - uses info gathered from Coeus to kerberoast a specific user
